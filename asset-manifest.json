@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-use-effect/static/css/main.40dcf503.css",
+    "main.js": "/ra-use-effect/static/js/main.7fbc3839.js",
+    "index.html": "/ra-use-effect/index.html",
+    "main.40dcf503.css.map": "/ra-use-effect/static/css/main.40dcf503.css.map",
+    "main.7fbc3839.js.map": "/ra-use-effect/static/js/main.7fbc3839.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40dcf503.css",
+    "static/js/main.7fbc3839.js"
+  ]
+}
